@@ -14,7 +14,9 @@ function App() {
         </div>
       </div>
 
-      <div className="w-7/12 h-full">one third</div>
+      <div className="w-7/12 h-full">
+        <div className="hexagon"></div>
+      </div>
     </div>
   );
 }
