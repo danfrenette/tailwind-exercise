@@ -29,8 +29,23 @@ function App() {
         </nav>
 
         <div className="mt-8 w-4/5 flex justify-between">
-          <div className="bg-gray-600 inline-block border-solid border-white ml-8 w-full h-auto">
-            text
+          <div className="bg-gray-600 inline-block border-solid border-white ml-8 py-8 px-12 w-full min-h-full">
+            <p>text</p>
+            <p>text</p>
+            <p>text</p>
+            <p>text</p>
+            <p>text</p>
+            <p>text</p>
+            <p>text</p>
+            <p>text</p>
+            <p>text</p>
+            <p>text</p>
+            <p>text</p>
+            <p>text</p>
+            <p>text</p>
+            <p>text</p>
+            <p>text</p>
+            <p>text</p>
           </div>
         </div>
       </div>
