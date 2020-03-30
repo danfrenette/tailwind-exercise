@@ -4,8 +4,6 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import './styles/tailwind.css';
 import 'font-awesome/css/font-awesome.min.css';
-import './styles/custom.css';
-import './styles/hexagon.css';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
